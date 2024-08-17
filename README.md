@@ -10,3 +10,9 @@ we used bfs, dfs and A* algorithms for this purpos and we can use them and visua
 &emsp; shows the result for **BFS** algorithm.
 #### - replacing by `agent.dfs(gameBoard)`:<br/>
 &emsp; shows the result for dfs algorithm
+<br/>
+<br/>
+<br/>
+## Agent-v2:<br/>
+&emsp; I also implemented it in another version (same functionality with different approaches) and put it here in the Agent-v2.py file. For example it has recursive implementation for dfs algorithm. 
+For running this project, you only need one of these (Agent.py and Agent-v2.py) files. It doesn't matter which of them you are using, the **how to use different algorithms** section, remains the same.
